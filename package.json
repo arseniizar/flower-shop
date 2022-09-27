@@ -1,0 +1,24 @@
+{
+  "name": "flower-shop",
+  "version": "1.0.0",
+  "description": "flowers shop for PROMETHEUS frontend course",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsezar/flower-shop.git"
+  },
+  "keywords": [
+    "flowers",
+    "course",
+    "Prometheus"
+  ],
+  "author": "Arsenii Zarudniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arsezar/flower-shop/issues"
+  },
+  "homepage": "https://github.com/Arsezar/flower-shop#readme"
+}
