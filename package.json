@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Arsezar/flower-shop/issues"
   },
-  "homepage": "https://github.com/Arsezar/flower-shop#readme"
+  "homepage": "https://github.com/Arsezar/flower-shop#readme",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
 }
